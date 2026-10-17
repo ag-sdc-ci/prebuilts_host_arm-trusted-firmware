@@ -1,0 +1,5 @@
+shadow prebuilt repo: arm-trusted-firmware (host)
+  upstream package: arm-trusted-firmware (dt-bindings headers)
+  api-level: universal (C/C++ headers)
+  layout: extracted include/ headers; Android.bp providing arm_dt_bindings_headers
+  date: 2026-10-17
